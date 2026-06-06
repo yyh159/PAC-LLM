@@ -1,0 +1,20 @@
+{
+  "system_name": "Rossler",
+  "state_dim": 3,
+  "seed": 2026,
+  "num_trajectories": 20,
+  "benchmark_split_mode": "single_train_multi_test",
+  "integration_dt": 0.001,
+  "lyapunov_time": 6.640243394230567,
+  "target_pts_per_lyapunov": 30,
+  "downsample_stride": 221,
+  "effective_dt": 0.221,
+  "warmup_steps_raw": 33201,
+  "kept_steps_raw": 530180,
+  "train_points": 30000,
+  "test_points": 2400,
+  "ic_sampling_method": "on_attractor",
+  "ic_sampling_fallback": null,
+  "reference_traj_length": 4096,
+  "reference_traj_transient": 500
+}

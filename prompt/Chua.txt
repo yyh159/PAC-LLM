@@ -1,0 +1,1 @@
+Chua is a three-dimensional chaotic circuit system with nonlinear interactions among voltage-like and current-like state variables. The generated trajectories contain irregular oscillations and multi-scroll attractor dynamics, making the future evolution sensitive to initial conditions.

@@ -1,0 +1,16 @@
+numpy
+scipy
+scikit-learn
+torch
+transformers
+neuralforecast
+dysts
+tqdm
+einops
+matplotlib
+PyWavelets
+sympy
+reformer-pytorch
+torchsummary
+thop
+prettytable
