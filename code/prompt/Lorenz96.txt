@@ -1,1 +1,0 @@
-Lorenz96 is an eight-dimensional chaotic system designed to model cyclic interactions among multiple variables. Each variable is coupled with neighboring variables, producing high-dimensional nonlinear dynamics and strong sensitivity to initial conditions.
