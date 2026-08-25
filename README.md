@@ -1,6 +1,6 @@
 # PAC-LLM
 
-Predict the Unpredictable: LLM-powered Long-term Chaotic Time Series Forecasting under Short-term Observations
+Predicting the Unpredictable: LLM-powered Long-term Chaotic Time Series Forecasting under Short-term Observations
 
 ## Structure
 
