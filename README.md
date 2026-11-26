@@ -6,7 +6,7 @@ Predicting the Unpredictable: LLM-powered Long-term Chaotic Time Series Forecast
 
 ```text
 data_provider/              data generation and dataloaders
-model/                      PAC-LLM and baseline models
+model/                      PAC-LLM
 prompt/                     dataset description prompts
 scripts/                    run_all.sh
 util/                       metrics
